@@ -1,5 +1,5 @@
-- 👋 Greetings, I’m @[imeanup](https://github.com/imeanup), also known as Anupam.
-- 👀 I have a keen interest in various programming languages such as C/C++, HTML, Python, CSS, Ruby(not an expert), Go(idk now).
+- 👋 Greetings, I’m @[imeanup](https://github.com/imeanup), aka Anupam.
+- 👀 I have a keen interest in various programming languages such as C/C++, HTML, Python, CSS, Ruby(not an expert), Go.
     
 - 🌱 Currently, I’m not reading 📖 `Data Structure through C in Depth` and `Database System Concepts`. Because I'm applying them.
 - 💞️ I am seeking opportunities to collaborate on projects related to backend with any technology which makes me alive. 
