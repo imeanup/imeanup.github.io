@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My Markdown Page
+title: LeetCode Solutions
 ---
 
 
